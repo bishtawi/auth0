@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/auth0.v1"
+	"github.com/bishtawi/auth0"
 )
 
 type Job struct {
